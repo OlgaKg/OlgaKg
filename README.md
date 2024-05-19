@@ -34,7 +34,7 @@
 
 ### 🤝 Контакты:
 
-📧 [olga.ger.v@yandex.ru](mailto:olga.ger.v@yandex.ru)
+📧 [olga.ger.v@yandex.ru](mailto:olga.ger.v@yandex.ru)</br>
 📲 [@Olga_KV](https://t.me/Olga_KV)
 
 
