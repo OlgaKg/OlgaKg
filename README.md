@@ -34,9 +34,7 @@
 
 ### 🤝 Контакты:
 
-<a href="mailto:olga.ger.v@yandex.ru"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/email.svg" alt="Email" width="21px"/></a>
-<a href="https://t.me/Olga_KV"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/telegram.svg" alt="Telegram" width="21px"/></a>
+📧 [olga.ger.v@yandex.ru](mailto:olga.ger.v@yandex.ru)
+📲 [@Olga_KV](https://t.me/Olga_KV)
 
-<a href="mailto:olga.ger.v@yandex.ru"><i class="fas fa-envelope"></i></a></br>
-<a href="https://t.me/Olga_KV"><i class="fab fa-telegram"></i></a>
 
